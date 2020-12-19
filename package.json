@@ -1,0 +1,12 @@
+{
+  "name": "passvault",
+  "version": "1.0.0",
+  "description": "PassVault",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node --experimental-modules main.mjs"
+  },
+  "keywords": [],
+  "author": "https://github.com/mant1n1/",
+  "license": "ISC"
+}
